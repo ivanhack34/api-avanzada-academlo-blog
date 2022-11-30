@@ -8,4 +8,9 @@
 - Comments
 - Likes
 
+## Auth 
+- Sign up /auth/register
+- Login /auth/login
+
+
 
