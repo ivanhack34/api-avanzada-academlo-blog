@@ -32,6 +32,10 @@ const createUser = async (obj) => {
     return data
 }
 
+const findUserByEmail = async (email) => {
+
+}
+
 module.exports = {
     findAllUsers,
     findUsersbyId,
